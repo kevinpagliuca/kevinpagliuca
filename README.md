@@ -38,8 +38,8 @@ I am currently graduated in Computer Science, intending to work in the area of w
 
 <p>
 <a href="https://github.com/kevinpagliuca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinpagliuca&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinpagliuca&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinpagliuca&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinpagliuca&theme=merko&layout=compact" />
 </a>
 </p>
 
