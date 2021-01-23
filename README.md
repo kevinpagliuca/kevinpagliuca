@@ -14,16 +14,16 @@ I am currently graduated in Computer Science, intending to work in the area of w
 
 ### Tech stacks:
 
-<img align="left" alt="html5" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" />
-<img align="left" alt="css3" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
+<img align="left" alt="html5" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg" alt="html5" />
+<img align="left" alt="css3" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg" />
 
-<img align="left" alt="javascript" width="42px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
-<img align="left" alt="typescript" width="42px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
-<img align="left" alt="react" width="42px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="nodejs" width="42px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="javascript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" />
+<img align="left" alt="typescript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg" />
+<img align="left" alt="react" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="nodejs" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original.svg" />
 
-<img align="left" alt="Git" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" />
-<img align="left" alt="php" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" />
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg" />
+<img align="left" alt="php" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/php/php-plain.svg" />
 
 <img align="left" alt="Insomnia" width="36px" src="https://insomnia.rest/icons-16bbda05b237ae360d3df0d55e40721d/favicon.ico" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
