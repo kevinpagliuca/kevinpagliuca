@@ -1,10 +1,11 @@
-# Hi I'm Kevin Pagliuca 👋
+# Hi I'm Kevin Pagliuca 🖐🏻
 
 
 ### 💻 About Me 
 
-I love to learn and discuss about new technologies, and I am very interested in them, always trying to learn more and more about what the technology market has to offer.
-I am currently graduated in Computer Science, intending to work in the area of web development, as I identify myself with the available technologies, such as Stack of React, which I am learning and improving my knowledge more deeply
+I am a dynamic person, with a good interpersonal relationship, agile and proactive.
+I like to learn and discuss new technologies, and I am very interested in them, always trying to learn more and more about what the technology market has to offer.
+I am currently graduated in Computer Science, working in the web development area carrying out personal projects for 2 years, the first year using HTML, CSS, JavaScript and PHP together, and the second year with the React Ecosystem, using Reactjs, Nodejs , React Native, TypeScript, and now NextJS.
 
 - 🤔 Exploring new technologies.
 - 😎 I like to automate tasks to make life easier.
@@ -20,6 +21,9 @@ I am currently graduated in Computer Science, intending to work in the area of w
 <img align="left" alt="javascript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" />
 <img align="left" alt="typescript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg" />
 <img align="left" alt="react" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" />
+
+<img align="left" alt="nextjs" width="42px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+
 <img align="left" alt="nodejs" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt "docker" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/docker/docker-original-wordmark.svg" />
 
