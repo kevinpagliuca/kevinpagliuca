@@ -5,7 +5,7 @@
 
 I am a dynamic person, with a good interpersonal relationship, agile and proactive.
 I like to learn and discuss new technologies, always trying to learn more and more about what the technology market has to offer.
-I am currently graduated in Computer Science, working in the web development area working on personal projects for 2 years, the first year using HTML, CSS, JavaScript and PHP together, and the second year with the React Ecosystem, using Reactjs, Nodejs, React Native, TypeScript, and now NextJS.
+I am currently graduated in Computer Science, working in the web development area on personal projects for 2 years, the first year using HTML, CSS, JavaScript and PHP together, and the second year with the React Ecosystem, using Reactjs, Nodejs, React Native, TypeScript, and now NextJS.
 
 - 🤔 Exploring new technologies.
 - 😎 I like to automate tasks to make life easier.
