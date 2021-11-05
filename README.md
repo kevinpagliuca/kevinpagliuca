@@ -3,14 +3,14 @@
 
 ### 💻 About Me 
 
-I am a dynamic person, with a good interpersonal relationship, agile and proactive.
+I have a good interpersonal relationship, agile, proactive and dynamic.
 I like to share my knowledge and talk about technologies that I work with, or that are emerging.
-I am currently graduated in Computer Science, working in the web development area on personal projects for 2 years, the first year using HTML, CSS, JavaScript and PHP together, and the second year with the React Ecosystem, using Reactjs, Nodejs, React Native, TypeScript, and now NextJS.
+Graduated in Computer Science, working in the web development area on personal projects for over 2 years with React, and currently I'm working professionally with React/React Native for 9 months, and studying a lot of backend and clean code.
 
-- 🤔 Exploring new technologies.
 - 😎 I like to automate tasks to make life easier.
 - 📖 Studying web development
 - 👩🏻‍💻 Studying backend [nodejs] and nodejs + prisma.io
+- 🧹 Studying and applying clean code.
 
 ##
 
