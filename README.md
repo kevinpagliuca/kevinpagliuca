@@ -9,7 +9,7 @@ Graduated in Computer Science, working in the web development area on personal p
 
 - 😎 I like to automate tasks to make life easier.
 - 📖 Studying web development
-- 👩🏻‍💻 Studying backend [nodejs] and nodejs + prisma.io
+- 👩🏻‍💻 Studying backend nodejs + prisma.io
 - 🧹 Studying and applying clean code.
 
 ##
