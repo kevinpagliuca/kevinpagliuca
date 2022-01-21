@@ -5,6 +5,7 @@
 
 I have a good interpersonal relationship, agile, proactive and dynamic.
 I'm a FullStack Web developer, passionate about the entire React ecosystem, such as Next.js, Node.js, React Native and of course the dear TypeScript ❤.
+
 I've been working professionally as a developer for more than 11 months, and studying/doing personal projects related to programming for more than 2 years now.
 
 - 😎 I like to automate tasks to make life easier.
