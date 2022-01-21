@@ -4,8 +4,8 @@
 ### 💻 About Me 
 
 I have a good interpersonal relationship, agile, proactive and dynamic.
-I like to share my knowledge and talk about technologies that I work with, or that are emerging.
-Graduated in Computer Science, working in the web development area on personal projects for over 2 years with React, and currently I'm working professionally with React/React Native for 9 months, and studying a lot of backend and clean code.
+I'm a FullStack Web developer, passionate about the entire React ecosystem, such as Next.js, Node.js, React Native and of course the dear TypeScript ❤.
+I've been working professionally as a developer for more than 11 months, and studying/doing personal projects related to programming for more than 2 years now.
 
 - 😎 I like to automate tasks to make life easier.
 - 📖 Studying web development
