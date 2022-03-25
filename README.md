@@ -4,6 +4,7 @@
 ### 💻 About Me 
 
 I'm a Fullstack Web Developer, passionate about the entire React ecosystem, such as Next.js, Node.js, React Native and of course the dear TypeScript ❤.
+
 I've been working professionally as a developer for over 1 year, and studying/doing personal projects related to programming for over 2 years now.
 
 Today, the "I don't know", has become the "I still don't know", Bill Gates
