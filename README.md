@@ -17,16 +17,16 @@ Today, the "I don't know", has become the "I still don't know", Bill Gates
 
 ### My techs
 
-<img align="left" alt="html5" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg" alt="html5" />
-<img align="left" alt="css3" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg" />
 <img align="left" alt="javascript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" />
 <img align="left" alt="typescript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg" />
 <img align="left" alt="react" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" />
-<img align="left" style="background-color:#fff!important;" alt="nextjs" width="42px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+<img align="left" alt="nextjs" width="42px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
 <img align="left" alt="nodejs" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="nodejs" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg" />
+<img align="left" alt="nestjs" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg" />
 <img align="left" alt "docker" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg" />
+<img align="left" alt="html5" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg" alt="html5" />
+<img align="left" alt="css3" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg" />
 
 <br />
 <br />
