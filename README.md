@@ -49,10 +49,6 @@ Today, the "I don't know", has become the "I still don't know", Bill Gates
 <a href="https://www.linkedin.com/in/kevin-pagliuca"><img align="left" alt="Facebook" width="44px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png"/></a>
 <a href="mailto:kevin.pagliuca@outlook.com"><img align="left" alt="Microsoft Outlook" width="44px" src="https://cdn-icons-png.flaticon.com/512/732/732223.png"/></a>
 
-<a href="https://www.facebook.com/keviin.pagliuca"><img align="left" alt="Facebook" width="44px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/></a>
-<a href="https://www.instagram.com/kevinpagliuca"><img align="left" alt="Instagram" width="44px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
-
-
 <!--
 **KevinPagliuca/kevinpagliuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
