@@ -10,8 +10,7 @@ I've been working professionally as a developer for over 1 year, and studying/do
 Today, the "I don't know", has become the "I still don't know", Bill Gates
 
 - 😎 I like to automate tasks to make life easier.
-- 📖 Studying web development
-- 👩🏻‍💻 Studying backend nodejs
+- 👩🏻‍💻 Studying backend Nodejs/Nestjs
 
 ##
 
