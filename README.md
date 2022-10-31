@@ -10,7 +10,7 @@ I have been working professionally as a developer for over 1 year and a half, an
 Today, the "I don't know", has become the "I still don't know", Bill Gate
 
 - 😎 I like to automate tasks to make life easier.
-- 👩🏻‍💻 Studying backend Nodejs/Nestjs and improve my skill on React.js/Next.js
+- 👩🏻‍💻 Studying backend Nodejs/Nestjs and improving my skills on React.js/Next.js
 
 ##
 
