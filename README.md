@@ -7,7 +7,7 @@ I'm a Fullstack developer, passionate about the technologies of React.js, Next.j
 
 I have been working professionally as a developer for 2 years, and I have been doing personal projects related to programming for 4 years.
 
-Today, the "I don't know", has become the "I still don't know", Bill Gate
+Today, the "I don't know", has become the "I still don't know", Bill Gates
 
 - 😎 I like to automate tasks to make life easier.
 - 👩🏻‍💻 Studying backend Nodejs/Nestjs and improving my skills on React.js/Next.js
