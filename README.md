@@ -3,14 +3,14 @@
 
 ### 💻 About Me 
 
-I'm a Fullstack developer, passionate about the technologies of React.js, Next.js, Node.js, Nest.js and of course the dear TypeScript. ❤
+I'm a Sr. Front-End developer, passionate about the technologies of React.js, Next.js, Node.js and of course the dear TypeScript. ❤
 
-I have been working professionally as a developer for 2 years, and I have been doing personal projects related to programming for 4 years.
+I have been working professionally as a developer since 3 years ago, and I have been doing personal projects related to programming for over 5 years.
 
 Today, the "I don't know", has become the "I still don't know", Bill Gates
 
 - 😎 I like to automate tasks to make life easier.
-- 👩🏻‍💻 Studying backend Nodejs/Nestjs and improving my skills on React.js/Next.js
+- 👩🏻‍💻 Maximizing front-end knowledge to become a specialist 
 
 ##
 
