@@ -5,7 +5,7 @@
 
 I'm a Sr. Front-End developer, passionate about the technologies of React.js, Next.js, Node.js and of course the dear TypeScript. ❤
 
-I have been working professionally as a developer since 3 years ago, and I have been doing personal projects related to programming for over 5 years.
+I have been working professionally as a developer since 4 years ago, and I have been doing personal projects related to programming for over 6 years.
 
 Today, the "I don't know", has become the "I still don't know", Bill Gates
 
