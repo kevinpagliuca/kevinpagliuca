@@ -3,7 +3,7 @@
 
 ### 💻 About Me 
 
-🌟 Frontend Developer passionate about React.js, Next.js and TypeScript, with over 6 years of experience.
+🌟 Sr. Frontend Developer passionate about React.js, Next.js and TypeScript, with over 6 years of experience.
 
 💼 Throughout my career, I've contributed to more than 12 business projects, always seeking to increase the quality of the solutions delivered, as well as learning.
 
