@@ -3,14 +3,11 @@
 
 ### 💻 About Me 
 
-I'm a Sr. Front-End developer, passionate about the technologies of React.js, Next.js, Node.js and of course the dear TypeScript. ❤
+🌟 Frontend Developer passionate about React.js, Next.js and TypeScript, with over 6 years of experience.
 
-I have been working professionally as a developer since 4 years ago, and I have been doing personal projects related to programming for over 6 years.
+💼 Throughout my career, I've contributed to more than 12 business projects, always seeking to increase the quality of the solutions delivered, as well as learning.
 
-Today, the "I don't know", has become the "I still don't know", Bill Gates
-
-- 😎 I like to automate tasks to make life easier.
-- 👩🏻‍💻 Maximizing front-end knowledge to become a specialist 
+🚀 Constantly looking for new challenges to improve my knowledge, and also to stay up to date, to then offer more efficient and technological solutions.
 
 ##
 
