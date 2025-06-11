@@ -3,11 +3,11 @@
 
 ### 💻 About Me 
 
-🌟 Sr. Frontend Developer passionate about React.js, Next.js and TypeScript, with over 6 years of experience.
+Graduated in Computer Science, I have over six years of experience in frontend development with React, Next.js, TypeScript, and JavaScript, as well as experience with back-end using Node.js and NestJS. I build modern interfaces focused on performance, scalability, and user experience, always paying attention to business rules, architectural decisions, and technical constraints that shape the product.
 
-💼 Throughout my career, I've contributed to more than 12 business projects, always seeking to increase the quality of the solutions delivered, as well as learning.
+I have worked on legacy systems, unstructured environments, and critical systems with complex logic. I have refactored entire projects to make them more readable and maintainable, and I have built impactful solutions, such as a dynamic form engine for insurance companies with highly configurable field visibility, validation, and cleaning rules, which I continue to evolve in production.
 
-🚀 Constantly looking for new challenges to improve my knowledge, and also to stay up to date, to then offer more efficient and technological solutions.
+I value clear, predictable, and considerate code for those who come after me, including myself. I believe in teamwork, knowledge sharing, and continuous improvement in technology, architecture, and best practices.
 
 ##
 
